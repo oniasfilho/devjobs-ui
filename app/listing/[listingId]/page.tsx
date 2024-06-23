@@ -1,28 +1,32 @@
-import React from 'react'
+'use client'
+
+import React, { useState } from 'react'
+import data from '../../util/data.json'
 
 type Params = {
   params: {
     listingId: string
   }
 }
+
 export default async function Page({ params: { listingId } }: Params) {
+  const [listing, setListing] = useState<JobListing>(data.jobListings.find(e => e.id === listingId)!!)
   return (
     <div className='listing-page-wrapper'>
       <div className="listing-page-header header-section">
-        logo | switch
+        {listing.logo} | switch
       </div>
       <div className="company-info-section">
-        logo | nome | site | link do site
+        {listing.logo} | {listing.company_name} | {listing.company_site} | link to {listing.company_site}
       </div>
       <div className="job-description-section">
         <div className="general-info">
-          informações gerais
-          apply button
+          <button>apply</button>
         </div>
         <div className="details">
           <div className="details-subsection">
             <p className="general-description">
-              general description
+              {listing.opening_description}
             </p>
           </div>
           <div className="requirements-subsection requirements">

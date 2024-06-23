@@ -1,265 +1,265 @@
 {
-  "jobListings": [
-    { 
-      "id": "308645072875008898944867440167188631751",
-      "company_name": "Scoot",
-      "job_title": "Senior Software Engineer",
-      "employment_type": "Full Time",
-      "posted_time": "5h ago",
-      "location": "United Kingdom",
-      "logo": "scoot",
-      "company_site": "https://www.scoot.com",
-      "general_description": "Scoot is at the forefront of mobility solutions, providing innovative services to help urban dwellers move efficiently.",
-      "requirements": {
-        "overview": "We are looking for a seasoned software engineer with expertise in Java and Python, and experience in cloud services.",
-        "requirements_list": [
-          "5+ years of experience in software development",
-          "Proficiency in Java and Python",
-          "Experience with cloud services (AWS, Azure)",
-          "Strong problem-solving skills"
-        ]
-      },
-      "responsibilities": {
-        "overview": "The role involves developing web applications, collaborating with teams, and mentoring junior developers.",
-        "responsibilities_list": [
-          "Develop and maintain web applications",
-          "Collaborate with cross-functional teams",
-          "Participate in code reviews",
-          "Mentor junior developers"
-        ]
-      }
-    },
-    {
-      "id": "290624786538762733555213146851036133544",
-      "company_name": "Blogr",
-      "job_title": "Haskell and PureScript Dev",
-      "employment_type": "Part Time",
-      "posted_time": "20h ago",
-      "location": "United States",
-      "logo": "blogr",
-      "company_site": "https://www.blogr.com",
-      "general_description": "Blogr is a leading platform for content creators, offering a suite of tools to enhance blogging and audience engagement.",
-      "requirements": {
-        "overview": "Seeking a developer proficient in Haskell and PureScript with a solid understanding of functional programming.",
-        "requirements_list": [
-          "2+ years of experience with Haskell and PureScript",
-          "Understanding of functional programming paradigms",
-          "Experience with RESTful APIs",
-          "Excellent communication skills"
-        ]
-      },
-      "responsibilities": {
-        "overview": "Responsibilities include developing backend services, integrating APIs, and writing scalable code.",
-        "responsibilities_list": [
-          "Develop and maintain backend services",
-          "Work with frontend teams to integrate APIs",
-          "Write clean, scalable code",
-          "Troubleshoot and debug applications"
-        ]
-      }
-    },
-    {
-      "id": "75035134186355747384755273233110137325",
-      "company_name": "Vector",
-      "job_title": "Midlevel Back End Engineer",
-      "employment_type": "Part Time",
-      "posted_time": "1d ago",
-      "location": "Russia",
-      "logo": "vector",
-      "company_site": "https://www.vector.com",
-      "general_description": "Vector is a tech company focused on providing high-performance backend solutions for businesses worldwide.",
-      "requirements": {
-        "overview": "We are looking for an engineer with strong backend development skills, particularly in Node.js and Express.",
-        "requirements_list": [
-          "3+ years of backend development experience",
-          "Proficiency in Node.js and Express",
-          "Experience with SQL and NoSQL databases",
-          "Strong understanding of microservices architecture"
-        ]
-      },
-      "responsibilities": {
-        "overview": "The engineer will design and implement backend services, ensuring high performance and code quality.",
-        "responsibilities_list": [
-          "Design and implement backend services",
-          "Ensure high performance and responsiveness",
-          "Integrate user-facing elements with server-side logic",
-          "Maintain code quality and organization"
-        ]
-      }
-    },
-    {
-      "id": "245433737951961637965876320102118221256",
-      "company_name": "Office Lite",
-      "job_title": "Senior Application Engineer",
-      "employment_type": "Full Time",
-      "posted_time": "2d ago",
-      "location": "Japan",
-      "logo": "office_lite",
-      "company_site": "https://www.officelite.com",
-      "general_description": "Office Lite provides innovative office management solutions to streamline business operations and enhance productivity.",
-      "requirements": {
-        "overview": "Seeking a senior application engineer experienced in C# and .NET for developing enterprise applications.",
-        "requirements_list": [
-          "5+ years of application development experience",
-          "Proficiency in C# and .NET",
-          "Experience with enterprise-level applications",
-          "Strong analytical and problem-solving skills"
-        ]
-      },
-      "responsibilities": {
-        "overview": "The role involves developing and maintaining enterprise applications and collaborating with stakeholders.",
-        "responsibilities_list": [
-          "Develop and maintain enterprise applications",
-          "Collaborate with stakeholders to define requirements",
-          "Perform system analysis and design",
-          "Ensure software meets performance and quality standards"
-        ]
-      }
-    },
-    {
-      "id": "36560022102584477223803268717967987272",
-      "company_name": "Pod",
-      "job_title": "Remote DevOps Engineer",
-      "employment_type": "Part Time",
-      "posted_time": "2d ago",
-      "location": "Thailand",
-      "logo": "pod",
-      "company_site": "https://www.pod.com",
-      "general_description": "Pod is a fast-growing tech startup offering cutting-edge solutions for remote work and collaboration.",
-      "requirements": {
-        "overview": "We need a DevOps engineer with expertise in Docker, Kubernetes, and CI/CD pipelines.",
-        "requirements_list": [
-          "3+ years of experience in DevOps",
-          "Proficiency with Docker and Kubernetes",
-          "Experience with CI/CD pipelines",
-          "Strong understanding of cloud infrastructure"
-        ]
-      },
-      "responsibilities": {
-        "overview": "The engineer will manage cloud infrastructure, implement CI/CD pipelines, and ensure system security.",
-        "responsibilities_list": [
-          "Manage and automate cloud infrastructure",
-          "Implement and maintain CI/CD pipelines",
-          "Monitor and optimize system performance",
-          "Ensure security and compliance of systems"
-        ]
-      }
-    },
-    {
-      "id": "257007778377698631036928515165003671350",
-      "company_name": "Creative",
-      "job_title": "Desktop Support Manager",
-      "employment_type": "Part Time",
-      "posted_time": "4d ago",
-      "location": "Germany",
-      "logo": "creative",
-      "company_site": "https://www.creative.com",
-      "general_description": "Creative is a leading provider of multimedia solutions, known for its innovative products and exceptional customer support.",
-      "requirements": {
-        "overview": "We are seeking a desktop support manager with strong troubleshooting skills and leadership abilities.",
-        "requirements_list": [
-          "4+ years of experience in desktop support",
-          "Proficiency in Windows and MacOS",
-          "Excellent troubleshooting skills",
-          "Strong leadership abilities"
-        ]
-      },
-      "responsibilities": {
-        "overview": "The manager will oversee the support team, ensure timely resolution of issues, and develop support policies.",
-        "responsibilities_list": [
-          "Manage the desktop support team",
-          "Ensure timely resolution of support tickets",
-          "Train and mentor support staff",
-          "Develop and implement support policies"
-        ]
-      }
-    },
-    {
-      "id": "196832866417379282741829862041766041243",
-      "company_name": "Pomodoro",
-      "job_title": "iOS Engineer",
-      "employment_type": "Full Time",
-      "posted_time": "1w ago",
-      "location": "United States",
-      "logo": "pomodoro",
-      "company_site": "https://www.pomodoro.com",
-      "general_description": "Pomodoro is revolutionizing productivity with its suite of tools designed to help individuals and teams manage their time effectively.",
-      "requirements": {
-        "overview": "We need an iOS engineer proficient in Swift and Objective-C with experience in iOS frameworks.",
-        "requirements_list": [
-          "3+ years of experience in iOS development",
-          "Proficiency in Swift and Objective-C",
-          "Experience with iOS frameworks and APIs",
-          "Strong understanding of UI/UX design principles"
-        ]
-      },
-      "responsibilities": {
-        "overview": "The role involves developing iOS applications, collaborating with teams, and ensuring app performance.",
-        "responsibilities_list": [
-          "Develop and maintain iOS applications",
-          "Collaborate with cross-functional teams",
-          "Ensure performance and quality of applications",
-          "Stay updated with the latest iOS technologies"
-        ]
-      }
-    },
-    {
-      "id": "209320016004100853004146124872863855824",
-      "company_name": "Maker",
-      "job_title": "Senior EJB Developer",
-      "employment_type": "Full Time",
-      "posted_time": "1w ago",
-      "location": "United Kingdom",
-      "logo": "maker",
-      "company_site": "https://www.maker.com",
-      "general_description": "Maker is a leading software development company, specializing in enterprise solutions that drive business growth.",
-      "requirements": {
-        "overview": "Seeking a senior EJB developer with extensive experience in Java and J2EE for enterprise application development.",
-        "requirements_list": [
-          "5+ years of experience in Java and J2EE",
-          "Strong knowledge of EJB and related technologies",
-          "Experience with relational databases",
-          "Excellent problem-solving skills"
-        ]
-      },
-      "responsibilities": {
-        "overview": "The developer will design and develop enterprise applications, ensure code quality, and collaborate with stakeholders.",
-        "responsibilities_list": [
-          "Design and develop enterprise applications using EJB",
-          "Ensure high code quality and performance",
-          "Collaborate with stakeholders to define requirements",
-          "Troubleshoot and resolve technical issues"
-        ]
-      }
-    },
-    {
-      "id": "277901635699634110042248043855337725016",
-      "company_name": "Coffeeeroasters",
-      "job_title": "Senior Frontend Developer",
-      "employment_type": "Part Time",
-      "posted_time": "1w ago",
-      "location": "Singapore",
-      "logo": "coffeeeroasters",
-      "company_site": "https://www.coffeeeroasters.com",
-      "general_description": "Coffeeeroasters is a specialty coffee company that prides itself on quality and customer satisfaction.",
-      "requirements": {
-        "overview": "Looking for a senior frontend developer skilled in React and Redux, with a strong eye for design.",
-        "requirements_list": [
-          "4+ years of frontend development experience",
-          "Proficiency in React and Redux",
-          "Strong understanding of web design principles",
-          "Experience with responsive design"
-        ]
-      },
-      "responsibilities": {
-        "overview": "The developer will create and maintain web applications, ensure design consistency, and collaborate with the design team.",
-        "responsibilities_list": [
-          "Develop and maintain web applications",
-          "Ensure design consistency across platforms",
-          "Collaborate with the design team",
-          "Optimize applications for maximum speed"
-        ]
-      }
-    }
-  ]
+	"jobListings": [
+		{
+			"id": "308645072875008898944867440167188631751",
+			"company_name": "Scoot",
+			"job_title": "Senior Software Engineer",
+			"employment_type": "Full Time",
+			"posted_time": "5h ago",
+			"location": "United Kingdom",
+			"logo": "scoot",
+			"company_site": "https://www.scoot.com",
+			"opening_description": "Scoot is at the forefront of mobility solutions, providing innovative services to help urban dwellers move efficiently.",
+			"requirements": {
+				"overview": "We are looking for a seasoned software engineer with expertise in Java and Python, and experience in cloud services.",
+				"requirements_list": [
+					"5+ years of experience in software development",
+					"Proficiency in Java and Python",
+					"Experience with cloud services (AWS, Azure)",
+					"Strong problem-solving skills"
+				]
+			},
+			"responsibilities": {
+				"overview": "The role involves developing web applications, collaborating with teams, and mentoring junior developers.",
+				"responsibilities_list": [
+					"Develop and maintain web applications",
+					"Collaborate with cross-functional teams",
+					"Participate in code reviews",
+					"Mentor junior developers"
+				]
+			}
+		},
+		{
+			"id": "290624786538762733555213146851036133544",
+			"company_name": "Blogr",
+			"job_title": "Haskell and PureScript Dev",
+			"employment_type": "Part Time",
+			"posted_time": "20h ago",
+			"location": "United States",
+			"logo": "blogr",
+			"company_site": "https://www.blogr.com",
+			"opening_description": "Blogr is a leading platform for content creators, offering a suite of tools to enhance blogging and audience engagement.",
+			"requirements": {
+				"overview": "Seeking a developer proficient in Haskell and PureScript with a solid understanding of functional programming.",
+				"requirements_list": [
+					"2+ years of experience with Haskell and PureScript",
+					"Understanding of functional programming paradigms",
+					"Experience with RESTful APIs",
+					"Excellent communication skills"
+				]
+			},
+			"responsibilities": {
+				"overview": "Responsibilities include developing backend services, integrating APIs, and writing scalable code.",
+				"responsibilities_list": [
+					"Develop and maintain backend services",
+					"Work with frontend teams to integrate APIs",
+					"Write clean, scalable code",
+					"Troubleshoot and debug applications"
+				]
+			}
+		},
+		{
+			"id": "75035134186355747384755273233110137325",
+			"company_name": "Vector",
+			"job_title": "Midlevel Back End Engineer",
+			"employment_type": "Part Time",
+			"posted_time": "1d ago",
+			"location": "Russia",
+			"logo": "vector",
+			"company_site": "https://www.vector.com",
+			"opening_description": "Vector is a tech company focused on providing high-performance backend solutions for businesses worldwide.",
+			"requirements": {
+				"overview": "We are looking for an engineer with strong backend development skills, particularly in Node.js and Express.",
+				"requirements_list": [
+					"3+ years of backend development experience",
+					"Proficiency in Node.js and Express",
+					"Experience with SQL and NoSQL databases",
+					"Strong understanding of microservices architecture"
+				]
+			},
+			"responsibilities": {
+				"overview": "The engineer will design and implement backend services, ensuring high performance and code quality.",
+				"responsibilities_list": [
+					"Design and implement backend services",
+					"Ensure high performance and responsiveness",
+					"Integrate user-facing elements with server-side logic",
+					"Maintain code quality and organization"
+				]
+			}
+		},
+		{
+			"id": "245433737951961637965876320102118221256",
+			"company_name": "Office Lite",
+			"job_title": "Senior Application Engineer",
+			"employment_type": "Full Time",
+			"posted_time": "2d ago",
+			"location": "Japan",
+			"logo": "office_lite",
+			"company_site": "https://www.officelite.com",
+			"opening_description": "Office Lite provides innovative office management solutions to streamline business operations and enhance productivity.",
+			"requirements": {
+				"overview": "Seeking a senior application engineer experienced in C# and .NET for developing enterprise applications.",
+				"requirements_list": [
+					"5+ years of application development experience",
+					"Proficiency in C# and .NET",
+					"Experience with enterprise-level applications",
+					"Strong analytical and problem-solving skills"
+				]
+			},
+			"responsibilities": {
+				"overview": "The role involves developing and maintaining enterprise applications and collaborating with stakeholders.",
+				"responsibilities_list": [
+					"Develop and maintain enterprise applications",
+					"Collaborate with stakeholders to define requirements",
+					"Perform system analysis and design",
+					"Ensure software meets performance and quality standards"
+				]
+			}
+		},
+		{
+			"id": "36560022102584477223803268717967987272",
+			"company_name": "Pod",
+			"job_title": "Remote DevOps Engineer",
+			"employment_type": "Part Time",
+			"posted_time": "2d ago",
+			"location": "Thailand",
+			"logo": "pod",
+			"company_site": "https://www.pod.com",
+			"opening_description": "Pod is a fast-growing tech startup offering cutting-edge solutions for remote work and collaboration.",
+			"requirements": {
+				"overview": "We need a DevOps engineer with expertise in Docker, Kubernetes, and CI/CD pipelines.",
+				"requirements_list": [
+					"3+ years of experience in DevOps",
+					"Proficiency with Docker and Kubernetes",
+					"Experience with CI/CD pipelines",
+					"Strong understanding of cloud infrastructure"
+				]
+			},
+			"responsibilities": {
+				"overview": "The engineer will manage cloud infrastructure, implement CI/CD pipelines, and ensure system security.",
+				"responsibilities_list": [
+					"Manage and automate cloud infrastructure",
+					"Implement and maintain CI/CD pipelines",
+					"Monitor and optimize system performance",
+					"Ensure security and compliance of systems"
+				]
+			}
+		},
+		{
+			"id": "257007778377698631036928515165003671350",
+			"company_name": "Creative",
+			"job_title": "Desktop Support Manager",
+			"employment_type": "Part Time",
+			"posted_time": "4d ago",
+			"location": "Germany",
+			"logo": "creative",
+			"company_site": "https://www.creative.com",
+			"opening_description": "Creative is a leading provider of multimedia solutions, known for its innovative products and exceptional customer support.",
+			"requirements": {
+				"overview": "We are seeking a desktop support manager with strong troubleshooting skills and leadership abilities.",
+				"requirements_list": [
+					"4+ years of experience in desktop support",
+					"Proficiency in Windows and MacOS",
+					"Excellent troubleshooting skills",
+					"Strong leadership abilities"
+				]
+			},
+			"responsibilities": {
+				"overview": "The manager will oversee the support team, ensure timely resolution of issues, and develop support policies.",
+				"responsibilities_list": [
+					"Manage the desktop support team",
+					"Ensure timely resolution of support tickets",
+					"Train and mentor support staff",
+					"Develop and implement support policies"
+				]
+			}
+		},
+		{
+			"id": "196832866417379282741829862041766041243",
+			"company_name": "Pomodoro",
+			"job_title": "iOS Engineer",
+			"employment_type": "Full Time",
+			"posted_time": "1w ago",
+			"location": "United States",
+			"logo": "pomodoro",
+			"company_site": "https://www.pomodoro.com",
+			"opening_description": "Pomodoro is revolutionizing productivity with its suite of tools designed to help individuals and teams manage their time effectively.",
+			"requirements": {
+				"overview": "We need an iOS engineer proficient in Swift and Objective-C with experience in iOS frameworks.",
+				"requirements_list": [
+					"3+ years of experience in iOS development",
+					"Proficiency in Swift and Objective-C",
+					"Experience with iOS frameworks and APIs",
+					"Strong understanding of UI/UX design principles"
+				]
+			},
+			"responsibilities": {
+				"overview": "The role involves developing iOS applications, collaborating with teams, and ensuring app performance.",
+				"responsibilities_list": [
+					"Develop and maintain iOS applications",
+					"Collaborate with cross-functional teams",
+					"Ensure performance and quality of applications",
+					"Stay updated with the latest iOS technologies"
+				]
+			}
+		},
+		{
+			"id": "209320016004100853004146124872863855824",
+			"company_name": "Maker",
+			"job_title": "Senior EJB Developer",
+			"employment_type": "Full Time",
+			"posted_time": "1w ago",
+			"location": "United Kingdom",
+			"logo": "maker",
+			"company_site": "https://www.maker.com",
+			"opening_description": "Maker is a leading software development company, specializing in enterprise solutions that drive business growth.",
+			"requirements": {
+				"overview": "Seeking a senior EJB developer with extensive experience in Java and J2EE for enterprise application development.",
+				"requirements_list": [
+					"5+ years of experience in Java and J2EE",
+					"Strong knowledge of EJB and related technologies",
+					"Experience with relational databases",
+					"Excellent problem-solving skills"
+				]
+			},
+			"responsibilities": {
+				"overview": "The developer will design and develop enterprise applications, ensure code quality, and collaborate with stakeholders.",
+				"responsibilities_list": [
+					"Design and develop enterprise applications using EJB",
+					"Ensure high code quality and performance",
+					"Collaborate with stakeholders to define requirements",
+					"Troubleshoot and resolve technical issues"
+				]
+			}
+		},
+		{
+			"id": "277901635699634110042248043855337725016",
+			"company_name": "Coffeeeroasters",
+			"job_title": "Senior Frontend Developer",
+			"employment_type": "Part Time",
+			"posted_time": "1w ago",
+			"location": "Singapore",
+			"logo": "coffeeeroasters",
+			"company_site": "https://www.coffeeeroasters.com",
+			"opening_description": "Coffeeeroasters is a specialty coffee company that prides itself on quality and customer satisfaction.",
+			"requirements": {
+				"overview": "Looking for a senior frontend developer skilled in React and Redux, with a strong eye for design.",
+				"requirements_list": [
+					"4+ years of frontend development experience",
+					"Proficiency in React and Redux",
+					"Strong understanding of web design principles",
+					"Experience with responsive design"
+				]
+			},
+			"responsibilities": {
+				"overview": "The developer will create and maintain web applications, ensure design consistency, and collaborate with the design team.",
+				"responsibilities_list": [
+					"Develop and maintain web applications",
+					"Ensure design consistency across platforms",
+					"Collaborate with the design team",
+					"Optimize applications for maximum speed"
+				]
+			}
+		}
+	]
 }
