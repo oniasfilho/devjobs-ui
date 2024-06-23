@@ -1,7 +1,5 @@
 'use client'
 import React, { useState } from 'react'
-import { Checkbox } from 'primereact/checkbox';
-
 
 const Popup = ({ state, closeDialog }: PopupProps) => {
   const [isFullTime, setIsFullTime] = useState(false);
@@ -10,6 +8,9 @@ const Popup = ({ state, closeDialog }: PopupProps) => {
     setIsFullTime(oldVal => !oldVal);
   }
 
+  const handleSubmitFilter = () => {
+    closeDialog();
+  }
   return (
     <div>
       {state && (
@@ -25,14 +26,22 @@ const Popup = ({ state, closeDialog }: PopupProps) => {
                 />
               </div>
               <div className="lower-section">
-                <Checkbox
-                  onChange={toggleIsFullTime}
+                <input
+                  type="checkbox"
+                  id="fullTimeCheckbox"
                   checked={isFullTime}
-                ></Checkbox>
-
-                <span>Full Time Only</span>
-
-                Action button com texto "Search"
+                  onChange={toggleIsFullTime}
+                />
+                <label htmlFor="fullTimeCheckbox" className="ml-2">Full Time Only</label>
+                <div className="submit-dialog-section">
+                  <button
+                    type="button"
+                    className="filter-sumit-btn"
+                    onClick={handleSubmitFilter}
+                  >
+                    Search
+                  </button>
+                </div>
               </div>
             </div>
           </div>

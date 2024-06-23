@@ -1,4 +1,8 @@
 interface PopupProps {
   state: boolean,
-  closeDialog: () => null
+  closeDialog: () => void
+}
+
+interface JobListingProps { 
+  jobsListings: JobListing[],
 }
