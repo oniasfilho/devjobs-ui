@@ -25,7 +25,7 @@ export default async function Page({ params: { listingId } }: Params) {
               general description
             </p>
           </div>
-          <div className="details-subsection requirements">
+          <div className="requirements-subsection requirements">
             <p className="subsection-header requirements-header">
               Requirements
             </p>
